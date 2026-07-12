@@ -5,14 +5,36 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Common\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Departments\" />
-    <Folder Include="Employees\" />
-    <Folder Include="Permissions\" />
-    <Folder Include="Roles\" />
-    <Folder Include="Users\" />
-    <Folder Include="Organizations\" />
+    <Folder Include="Common\Behaviors\" />
+    <Folder Include="Common\Exceptions\" />
+    <Folder Include="Common\Mappings\" />
+    <Folder Include="Common\Models\" />
+    <Folder Include="Departments\Commands\" />
+    <Folder Include="Departments\DTOs\" />
+    <Folder Include="Departments\Validators\" />
+    <Folder Include="Departments\Queries\" />
+    <Folder Include="Employees\Commands\" />
+    <Folder Include="Employees\DTOs\" />
+    <Folder Include="Employees\Validators\" />
+    <Folder Include="Employees\Queries\" />
+    <Folder Include="Interfaces\Identity\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="Organizations\Commands\" />
+    <Folder Include="Organizations\DTOs\" />
+    <Folder Include="Organizations\Validators\" />
+    <Folder Include="Organizations\Queries\" />
+    <Folder Include="Permissions\Commands\" />
+    <Folder Include="Permissions\DTOs\" />
+    <Folder Include="Permissions\Validators\" />
+    <Folder Include="Permissions\Queries\" />
+    <Folder Include="Roles\Commands\" />
+    <Folder Include="Roles\DTOs\" />
+    <Folder Include="Roles\Validators\" />
+    <Folder Include="Roles\Queries\" />
+    <Folder Include="Users\Commands\" />
+    <Folder Include="Users\DTOs\" />
+    <Folder Include="Users\Validators\" />
+    <Folder Include="Users\Queries\" />
   </ItemGroup>
 
   <PropertyGroup>
