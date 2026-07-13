@@ -1,7 +1,5 @@
 # Visual Studio
 .vs/
-
-# Build
 bin/
 obj/
 
@@ -14,3 +12,6 @@ obj/
 
 # VS Code
 .vscode/
+
+# Logs
+*.log
